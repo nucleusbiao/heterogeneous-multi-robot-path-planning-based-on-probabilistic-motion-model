@@ -1,5 +1,5 @@
 
-# HMRPP
+# Heterogeneous Multi-Robot Path Planning Based on Probabilistic Motion Model
 HMRPP is based on libMultiRobotPlanning project(https://github.com/whoenig/libMultiRobotPlanning) to slove the heterogeneous multi-Robot path planning based on probabilistic motion model.
 
 
@@ -46,4 +46,11 @@ python3 ../example/visualize.py ../benchmark/8x8_obst12/map_8by8_obst12_agents6_
 ./PECBS_OFF -i ../benchmark/8x8_obst12/map_8by8_obst12_agents6_ex1.yaml -o output.yaml -w 1.3
 python3 ../example/visualize.py ../benchmark/8x8_obst12/map_8by8_obst12_agents6_ex1.yaml output.yaml
 ````
-
+If you use the code, please cite
+@article{Hu2020HeterogeneousMP,
+  title={Heterogeneous Multi-Robot Path Planning Based on Probabilistic Motion Model},
+  author={Biao Hu and Haonan Wang and Zhengcai Cao},
+  journal={2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  year={2020},
+  pages={1323-1328}
+}
