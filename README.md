@@ -48,16 +48,10 @@ python3 ../example/visualize.py ../benchmark/8x8_obst12/map_8by8_obst12_agents6_
 ````
 If you use the code, please cite
 
-@article{Hu2020HeterogeneousMP,
-
-  title={Heterogeneous Multi-Robot Path Planning Based on Probabilistic Motion Model},
-  
-  author={Biao Hu and Haonan Wang and Zhengcai Cao},
-  
-  journal={2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
-  
-  year={2020},
-  
-  pages={1323-1328}
-  
+@article{Hu2020HeterogeneousMP,  
+  title={Heterogeneous Multi-Robot Path Planning Based on Probabilistic Motion Model},  
+  author={Biao Hu and Haonan Wang and Zhengcai Cao},  
+  journal={2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},  
+  year={2020},  
+  pages={1323-1328}  
 }
